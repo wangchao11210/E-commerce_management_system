@@ -1,2 +1,2 @@
-# E-commerce management system
+# Online Transaction System
 Software Engineering Training Week project plan of Beihua University
