@@ -38,9 +38,12 @@
 
 ![图片](https://user-images.githubusercontent.com/91715813/171879194-76dbdd69-cac7-4b9f-b2f7-070fcd16be7b.png)
 
-### 登录验证之后进入主页面，主页面的功能暂时只推进到了对数据的增删改查以及通过搜索框动态查询。
+### 登录验证之后进入主页面，主页面的功能暂时只推进到了对数据的增删改查以及通过搜索框动态查询，前端页面数据和数据库的数据保持一致性。
 
 ![图片](https://user-images.githubusercontent.com/91715813/171879946-cad47341-01cb-4288-a160-cb6bf7dd6539.png)
+
+![图片](https://user-images.githubusercontent.com/91715813/171881751-130aa516-f5d0-414b-8866-4c2e37077c62.png)
+
 
 ### 后端还是采用SSM框架和Tomcat容器做基础，在前端页面每调动一个功能，在后端都输出函数调用的消息队列。前后端连接通过Axios发送Ajax请求，并且只允许前端服务器请求。项目阶段性笔记到此结束。
 
