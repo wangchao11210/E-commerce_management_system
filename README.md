@@ -1,6 +1,8 @@
 # 线上交易系统
 北华大学软件工程培训周项目计划 
 
+# 采用传统SSM框架和JSP方式开发
+
 ![图片](https://user-images.githubusercontent.com/91715813/170872222-ca7d9b85-fe29-4c38-9cd0-6a62ea24ae9a.png)
 
 ## 前言
@@ -40,7 +42,7 @@
 
 ![图片](https://user-images.githubusercontent.com/91715813/171879946-cad47341-01cb-4288-a160-cb6bf7dd6539.png)
 
-### 后端还是采用SSM框架做基础，在前端页面每调动一个功能，在后端都输出函数调用的消息队列。前后端连接通过Axios发送Ajax请求，并且只允许前端服务器请求。项目阶段性笔记到此结束。
+### 后端还是采用SSM框架和Tomcat容器做基础，在前端页面每调动一个功能，在后端都输出函数调用的消息队列。前后端连接通过Axios发送Ajax请求，并且只允许前端服务器请求。项目阶段性笔记到此结束。
 
 ![图片](https://user-images.githubusercontent.com/91715813/171880573-9a3917a8-1220-4a43-ba4f-6c0081656882.png)
 
